@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+}
+
+ul li {
+    float: left;
+    margin-left: 10px;
+
+}
+
+ul li a {
+    color: black;
+    padding-right: 10px;
+    border-right: 1px solid;
+    text-decoration: none;
+}
+
+.slider {
+    float: right;
+    padding-right: 10px;
+}
+
+.slider h2 {
+    display: inline-block;
+}
+
+.navbar {
+    float: left;
+    padding-top: 10px;
+}
+
+.header {
+    overflow: hidden;
+    background-color: aqua;
+}
